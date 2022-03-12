@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/Fujitsu-Lifebook_S751-FF0000?style=for-the-badge&logo=fujitsu&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i5_2ND-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/Samsung-8G_DDR3_1333_MHz_SODIMM-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
+![](https://img.shields.io/badge/Seagate-Momentus_ST9320423AS_320GB_SATA_HDD-6EBE49?style=for-the-badge&logo=seagate&logoColor=white)
 ![](https://img.shields.io/badge/Windows-Windows_10_Pro_21H2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <!---
