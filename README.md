@@ -9,6 +9,8 @@
 ![](https://img.shields.io/badge/Samsung-8G_DDR3_1333_MHz_SODIMM-1428A0?style=for-the-badge&logo=samsung&logoColor=white)
 ![](https://img.shields.io/badge/Seagate-Momentus_ST9320423AS_320GB_SATA_HDD-6EBE49?style=for-the-badge&logo=seagate&logoColor=white)
 ![](https://img.shields.io/badge/Windows-Windows_10_Pro_21H2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Fujitsu-B23T-6_LED-FF0000?style=for-the-badge&logo=fujitsu&logoColor=white)
+![](https://img.shields.io/badge/NEC-MultiSync_LCD1570NX-1414A0?style=for-the-badge&logo=nec&logoColor=white)
 
 <!---
 BaleshSrle/BaleshSrle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
