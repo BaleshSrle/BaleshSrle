@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BaleshSrle
-- 👀 I’m interested in 💻, @twbs & @joomla
+- 👀 I’m interested in 💻, [![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=Bootstrap&labelColor=555555&color=7952B3&logoColor=white)] & [![Joomla](https://img.shields.io/static/v1?logo=joomla&label=&message=Joomla&labelColor=555555&color=5091CD&logoColor=white)]
 - :stadium: Supporter of <img src="https://badges.aleen42.com/src/bayern_munchen.svg" style="vertical-align:middle;" alt="FC Bayern Munich"> & <img src="https://badges.aleen42.com/src/ferrari.svg" style="vertical-align:baseline;" alt="Scuderia Ferrari">
 - 💼 I'm currently working as Quality Assurance Manual Tester for one IT company from Banja Luka
 - 📫 Yo can reach me via [![Facebook Messenger](https://badges.aleen42.com/src/messenger.svg)](https://m.me/srdjan.balesevic), [![Telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/BaleshSrle) or [![WhatsApp](https://badges.aleen42.com/src/whatsapp.svg)](https://wa.me/38766340286)
