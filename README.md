@@ -3,7 +3,7 @@
 - :stadium: Supporter of <img src="https://badges.aleen42.com/src/bayern_munchen.svg" style="vertical-align:middle;" alt="FC Bayern Munich"> & <img src="https://badges.aleen42.com/src/ferrari.svg" style="vertical-align:baseline;" alt="Scuderia Ferrari">
 - 💼 I'm currently working as Quality Assurance Manual Tester for one IT company from Banja Luka
 - 📫 Yo can reach me via [![Facebook Messenger](https://badges.aleen42.com/src/messenger.svg)](https://m.me/srdjan.balesevic), [![Telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/BaleshSrle) or [![WhatsApp](https://badges.aleen42.com/src/whatsapp.svg)](https://wa.me/38766340286)
-- :car: ![](https://img.shields.io/badge/Volkswagen-Golf_Typ19E_1.6_TD_CL_(1991)-151F5D?style=for-the-badge&logo=volkswagen&logoColor=white)
+- :car: ![](https://img.shields.io/static/v1?logo=volkswagen&label=&message=Golf%20Typ19E%201.6%20TD%20CL%20(1991)&labelColor=555555&color=151F5D&logoColor=white)
 
 ![](https://img.shields.io/badge/Fujitsu-Lifebook_S751-FF0000?style=for-the-badge&logo=fujitsu&logoColor=white)
 ![](https://img.shields.io/badge/Intel-Core_i5_2ND-0071C5?style=for-the-badge&logo=intel&logoColor=white)
