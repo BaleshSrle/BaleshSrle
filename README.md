@@ -6,10 +6,10 @@
 - :car: ![](https://img.shields.io/static/v1?logo=volkswagen&label=&message=Golf%20Typ19E%201.6%20TD%20CL%20(1991)&labelColor=555555&color=151F5D&logoColor=white)
 
 ![](https://img.shields.io/static/v1?logo=fujitsu&label=Fujitsu&message=Lifebook%20S751&labelColor=555555&color=FF0000&logoColor=white)
-![](https://img.shields.io/static/v1?logo=intel&label=&message=Core%20i5%202nd&labelColor=555555&color=0071C5&logoColor=white)
-![](https://img.shields.io/static/v1?logo=samsung&label=&message=8GB%20DDR3%201333MHz%20SODIMM&labelColor=555555&color=1428A0&logoColor=white)
-![](https://img.shields.io/badge/Seagate-Momentus_ST9320423AS_320GB_SATA_HDD-6EBE49?style=for-the-badge&logo=seagate&logoColor=white)
-![](https://img.shields.io/badge/Windows-Windows_10_Pro_21H2-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/static/v1?logo=intel&label=Intel&message=Core%20i5%202nd&labelColor=555555&color=0071C5&logoColor=white)
+![](https://img.shields.io/static/v1?logo=samsung&label=Samsung&message=8GB%20DDR3%201333MHz%20SODIMM&labelColor=555555&color=1428A0&logoColor=white)
+![](https://img.shields.io/static/v1?logo=seagate&label=Seagate&message=Momentus%20ST9320423AS%20320GB%20SATA%20HDD&labelColor=555555&color=6EBE49&logoColor=white)
+![](https://img.shields.io/static/v1?logo=windows&label=&message=Windows%2010%20Pro%2021H2&labelColor=555555&color=0078D6&logoColor=white)
 ![](https://img.shields.io/static/v1?logo=fujitsu&label=Fujitsu&message=B23T%E2%80%936%20LED&labelColor=555555&color=FF0000&logoColor=white)
 ![](https://img.shields.io/static/v1?logo=nec&label=&message=MultiSync%20LCD1570NX&labelColor=555555&color=1414A0&logoColor=white)
 
