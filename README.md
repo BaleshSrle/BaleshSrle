@@ -9,6 +9,8 @@
 
 * 💻 & 🖥️ ![](https://img.shields.io/badge/Fujitsu-B23T--6_LED-ff0000?logo=fujitsu&logoColor=white&labelColor=555555) , ![](https://img.shields.io/badge/MultiSync_LCD1570NX-1414a0?logo=nec&logoColor=white&labelColor=555555) , ![](https://img.shields.io/badge/Canyon-Foldable_Headphones_HP--2-e82726?labelColor=555555)<!-- , ![](https://img.shields.io/badge/Logitech-Wedcam_C210-00b8fc?logo=logitech&logoColor=white&labelColor=555555)--> , ![](https://img.shields.io/badge/Logitech-H540_USB_Computer_Headset-00b8fc?logo=logitech&logoColor=white&labelColor=555555) , ![](https://img.shields.io/badge/Gembird-4_port_USB2.0_Switching_Hub-df0024?labelColor=555555) , ![](https://img.shields.io/badge/Gembird-4--port_USB2.0_Hub_UHB--U2P4--04-df0024?labelColor=555555) , ![](https://img.shields.io/badge/Gembird-External_USB_DVD_drive-df0024?labelColor=555555) , ![](https://img.shields.io/badge/Gembird-External_USB_DVD_drive-df0024?labelColor=555555) & ![](https://img.shields.io/badge/hama-"Cortino"_Wireless_Keyboard/Mouse_set_QWERTZ_sr--Latn-f04137?labelColor=555555)
 
+* [![Spotify](https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4BrQZrWvXRTgXU2KP5ITYp?si=5d03048ffb8e4599)
+
 <!---
 BaleshSrle/BaleshSrle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
